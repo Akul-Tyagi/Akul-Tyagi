@@ -1,9 +1,18 @@
 # ✨HI, I'm Akul Tyagi !
-I build things people actually use. Started with Naivety—an Android book reader that grew to 641+ users in 50+ countries with 7-minute avg. engagement—and kept shipping: full-stack platforms in Next.js/React/Node, and fine-tuned LLMs for real-world deployments. My stack spans mobile (Kotlin/Compose), web (Next/React/Node/Tailwind), and ML (PyTorch/fine-tuning). Strong DSA foundation from competitive programming. Love fast feedback loops, ownership, and learning from great engineers. Always looking for the next problem worth solving.
+I am a final-year B.Tech CSE student, an active open-source contributor, and a builder of high-performance systems. I engineer for scale and efficiency, whether that means optimizing LLM inference, architecting offline-first mobile ecosystems, or rewriting native C++ Android libraries.
+
+🚀 What I'm building & contributing to:
+📱 Naivety: Founder & Lead Android Engineer of a production-grade e-reader ecosystem. Scaled to 1,000+ active users across 80+ countries with a verified 99.9% crash-free rate. I forked and rewrote native C++ rendering libraries to enforce 16KB page-size alignment for Android 15 kernel compliance.
+
+🤖 Unagi: Fine-tuned a Falcon3-7B-Instruct LLM using QLoRA adapters and 4-bit quantization, deployed on a FastAPI backend and Next.js proxy frontend. This content engine has generated over 110,000+ impressions.  
+
+🏆 Algorithmic Problem Solving: Codeforces Specialist (1540+ rating, Top 7% globally), maintaining a rigorous foundation in Data Structures and Algorithms.  
+
+My technical stack spans Mobile (Kotlin/Jetpack Compose), Web (Next.js/React/Node/Tailwind), and AI/ML (PyTorch/LLM Fine-tuning). I love fast feedback loops, extreme ownership, and tackling the hard technical problems others avoid. Always looking for the next problem worth solving.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akul-tyagi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/VincenzoSanji/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Vinsmoke_7/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/winsm0kesanji) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Akulsaidit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akultyagi.cs@gmail.com) [![portfolio](https://img.shields.io/badge/Portfolio-maroon?&logo=porsche)](https://akul-tyagi.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akul-tyagi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/VincenzoSanji/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user//) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/winsm0kesanji) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akultyagi.cs@gmail.com) [![portfolio](https://img.shields.io/badge/Portfolio-maroon?&logo=porsche)](https://akul-tyagi.github.io/)  
 
 
 # 💻 Tech Stack:
